@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Konraods
 - 👀 I’m interested in programming microcontrollers (AT89C52 mostly), coding
 - 🌱 I’m currently learning java, python
-- 💞️ I’m looking to collaborate on projects related to healthcare and bio stuff
+- 💞️ I’m looking to collaborate on projects related to healthcare and biomedical
 - 📫 How to reach me:
 - Discord - THEKonradPRO#0768
 - mail - jurkin.konrad@gmail.com
